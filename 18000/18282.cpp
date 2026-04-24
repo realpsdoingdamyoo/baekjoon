@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int N, A[1010101];
+char X[1010101];
+void dfs(int p) {
+    for (int i : {p^1, A[p]}) if (!X[i]) X[i]='A'+'B'-X[p], dfs(i);
+}
+
+signed main() {
+    cin >> N;
+    for (int i=1, x, y; i<=N; i++) cin >> x >> y, A[--x]=--y, A[y]=x;
+    for (int i=0; i<N*2; i++) if (!X[i]) X[i]='A', dfs(i);
+    cout << X;
+
+    return 0;
+}
