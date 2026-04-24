@@ -1,2130 +1,2019 @@
 [
   {
-    "problem_id": 14711,
+    "problem_id": 20093,
     "status": "OK",
-    "submission_id": 89084055,
+    "submission_id": 99815747,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14711.cpp"
+    "path": "/content/baekjoon/20000/20093.cpp"
   },
   {
-    "problem_id": 14712,
+    "problem_id": 20105,
     "status": "OK",
-    "submission_id": 86964007,
+    "submission_id": 102505770,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14712.cpp"
+    "path": "/content/baekjoon/20000/20105.cpp"
   },
   {
-    "problem_id": 14725,
+    "problem_id": 20123,
     "status": "OK",
-    "submission_id": 83121815,
+    "submission_id": 83543923,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14725.cpp"
+    "path": "/content/baekjoon/20000/20123.cpp"
   },
   {
-    "problem_id": 14727,
+    "problem_id": 20132,
     "status": "OK",
-    "submission_id": 81438997,
+    "submission_id": 93676349,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14727.cpp"
+    "path": "/content/baekjoon/20000/20132.cpp"
   },
   {
-    "problem_id": 14859,
+    "problem_id": 20149,
     "status": "OK",
-    "submission_id": 91481053,
+    "submission_id": 83090356,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14859.cpp"
+    "path": "/content/baekjoon/20000/20149.cpp"
   },
   {
-    "problem_id": 14862,
+    "problem_id": 20188,
     "status": "OK",
-    "submission_id": 97961906,
-    "language": "C++17 (Clang) / 수정",
-    "path": "/content/baekjoon/14000/14862.cpp"
-  },
-  {
-    "problem_id": 14865,
-    "status": "OK",
-    "submission_id": 88963816,
+    "submission_id": 91486824,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14865.cpp"
+    "path": "/content/baekjoon/20000/20188.cpp"
   },
   {
-    "problem_id": 14866,
+    "problem_id": 20189,
     "status": "OK",
-    "submission_id": 95997905,
+    "submission_id": 93415912,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14866.cpp"
+    "path": "/content/baekjoon/20000/20189.cpp"
   },
   {
-    "problem_id": 14870,
+    "problem_id": 20190,
     "status": "OK",
-    "submission_id": 96913469,
+    "submission_id": 96469561,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14870.cpp"
+    "path": "/content/baekjoon/20000/20190.cpp"
   },
   {
-    "problem_id": 14875,
+    "problem_id": 20192,
     "status": "OK",
-    "submission_id": 102555097,
+    "submission_id": 82279925,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14875.cpp"
+    "path": "/content/baekjoon/20000/20192.cpp"
   },
   {
-    "problem_id": 14881,
+    "problem_id": 20193,
     "status": "OK",
-    "submission_id": 88276256,
+    "submission_id": 102593844,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14881.cpp"
+    "path": "/content/baekjoon/20000/20193.cpp"
   },
   {
-    "problem_id": 14894,
+    "problem_id": 20297,
     "status": "OK",
-    "submission_id": 102668312,
+    "submission_id": 85705427,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14894.cpp"
+    "path": "/content/baekjoon/20000/20297.cpp"
   },
   {
-    "problem_id": 14897,
+    "problem_id": 20303,
     "status": "OK",
-    "submission_id": 94245546,
+    "submission_id": 98085700,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14897.cpp"
+    "path": "/content/baekjoon/20000/20303.cpp"
   },
   {
-    "problem_id": 14898,
+    "problem_id": 20305,
     "status": "OK",
-    "submission_id": 98582160,
+    "submission_id": 86717752,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14898.cpp"
+    "path": "/content/baekjoon/20000/20305.cpp"
   },
   {
-    "problem_id": 14927,
+    "problem_id": 20344,
     "status": "OK",
-    "submission_id": 89489646,
+    "submission_id": 97683182,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14927.cpp"
+    "path": "/content/baekjoon/20000/20344.cpp"
   },
   {
-    "problem_id": 14928,
+    "problem_id": 20346,
     "status": "OK",
-    "submission_id": 92553335,
-    "language": "Golfscript / 수정",
-    "path": "/content/baekjoon/14000/14928.go"
-  },
-  {
-    "problem_id": 14929,
-    "status": "OK",
-    "submission_id": 98107882,
+    "submission_id": 94232678,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14929.cpp"
+    "path": "/content/baekjoon/20000/20346.cpp"
   },
   {
-    "problem_id": 14932,
+    "problem_id": 20349,
     "status": "OK",
-    "submission_id": 86022970,
+    "submission_id": 100817969,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14932.cpp"
+    "path": "/content/baekjoon/20000/20349.cpp"
   },
   {
-    "problem_id": 14935,
+    "problem_id": 20503,
     "status": "OK",
-    "submission_id": 86424341,
-    "language": "Text / 수정",
-    "path": "/content/baekjoon/14000/14935.txt"
-  },
-  {
-    "problem_id": 14939,
-    "status": "OK",
-    "submission_id": 83067889,
+    "submission_id": 101526135,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14939.cpp"
+    "path": "/content/baekjoon/20000/20503.cpp"
   },
   {
-    "problem_id": 14959,
+    "problem_id": 20535,
     "status": "OK",
-    "submission_id": 82434361,
+    "submission_id": 89042132,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/14000/14959.cpp"
+    "path": "/content/baekjoon/20000/20535.cpp"
   },
   {
-    "problem_id": 15028,
+    "problem_id": 20543,
     "status": "OK",
-    "submission_id": 83287337,
+    "submission_id": 83216147,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15028.cpp"
+    "path": "/content/baekjoon/20000/20543.cpp"
   },
   {
-    "problem_id": 15059,
+    "problem_id": 20553,
     "status": "OK",
-    "submission_id": 98429692,
+    "submission_id": 87806294,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15059.cpp"
+    "path": "/content/baekjoon/20000/20553.cpp"
   },
   {
-    "problem_id": 15106,
+    "problem_id": 20557,
     "status": "OK",
-    "submission_id": 95793974,
+    "submission_id": 100834782,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15106.cpp"
+    "path": "/content/baekjoon/20000/20557.cpp"
   },
   {
-    "problem_id": 15244,
+    "problem_id": 20562,
     "status": "OK",
-    "submission_id": 96066869,
+    "submission_id": 87804393,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15244.cpp"
+    "path": "/content/baekjoon/20000/20562.cpp"
   },
   {
-    "problem_id": 15283,
+    "problem_id": 20603,
     "status": "OK",
-    "submission_id": 98349989,
+    "submission_id": 101681181,
     "language": "C++26 / 수정",
-    "path": "/content/baekjoon/15000/15283.cpp"
+    "path": "/content/baekjoon/20000/20603.cpp"
   },
   {
-    "problem_id": 15310,
+    "problem_id": 20608,
     "status": "OK",
-    "submission_id": 95128140,
+    "submission_id": 93526176,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15310.cpp"
+    "path": "/content/baekjoon/20000/20608.cpp"
   },
   {
-    "problem_id": 15311,
+    "problem_id": 20653,
     "status": "OK",
-    "submission_id": 83930282,
+    "submission_id": 90950079,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15311.cpp"
+    "path": "/content/baekjoon/20000/20653.cpp"
   },
   {
-    "problem_id": 15480,
+    "problem_id": 20693,
     "status": "OK",
-    "submission_id": 86678602,
+    "submission_id": 96311589,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15480.cpp"
+    "path": "/content/baekjoon/20000/20693.cpp"
   },
   {
-    "problem_id": 15481,
+    "problem_id": 20956,
     "status": "OK",
-    "submission_id": 91011282,
+    "submission_id": 84522689,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15481.cpp"
+    "path": "/content/baekjoon/20000/20956.cpp"
   },
   {
-    "problem_id": 15493,
+    "problem_id": 20985,
     "status": "OK",
-    "submission_id": 89796883,
+    "submission_id": 99214978,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15493.cpp"
+    "path": "/content/baekjoon/20000/20985.cpp"
   },
   {
-    "problem_id": 15554,
+    "problem_id": 20986,
     "status": "OK",
-    "submission_id": 82531325,
+    "submission_id": 90975549,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15554.cpp"
+    "path": "/content/baekjoon/20000/20986.cpp"
   },
   {
-    "problem_id": 15555,
+    "problem_id": 20993,
     "status": "OK",
-    "submission_id": 93260603,
+    "submission_id": 99179510,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15555.cpp"
+    "path": "/content/baekjoon/20000/20993.cpp"
   },
   {
-    "problem_id": 15563,
+    "problem_id": 20995,
     "status": "OK",
-    "submission_id": 85777705,
+    "submission_id": 99180105,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15563.cpp"
+    "path": "/content/baekjoon/20000/20995.cpp"
   },
   {
-    "problem_id": 15564,
+    "problem_id": 21061,
     "status": "OK",
-    "submission_id": 85777521,
-    "language": "C++17 (Clang) / 수정",
-    "path": "/content/baekjoon/15000/15564.cpp"
-  },
-  {
-    "problem_id": 15571,
-    "status": "OK",
-    "submission_id": 97984674,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15571.cpp"
-  },
-  {
-    "problem_id": 15576,
-    "status": "OK",
-    "submission_id": 94604734,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15576.cpp"
-  },
-  {
-    "problem_id": 15649,
-    "status": "OK",
-    "submission_id": 83741975,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15649.cpp"
-  },
-  {
-    "problem_id": 15650,
-    "status": "OK",
-    "submission_id": 83742032,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15650.cpp"
-  },
-  {
-    "problem_id": 15651,
-    "status": "OK",
-    "submission_id": 83742082,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15651.cpp"
-  },
-  {
-    "problem_id": 15652,
-    "status": "OK",
-    "submission_id": 83742128,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15652.cpp"
-  },
-  {
-    "problem_id": 15654,
-    "status": "OK",
-    "submission_id": 83742536,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15654.cpp"
-  },
-  {
-    "problem_id": 15655,
-    "status": "OK",
-    "submission_id": 83742561,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15655.cpp"
-  },
-  {
-    "problem_id": 15656,
-    "status": "OK",
-    "submission_id": 83742702,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15656.cpp"
-  },
-  {
-    "problem_id": 15657,
-    "status": "OK",
-    "submission_id": 83742767,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15657.cpp"
-  },
-  {
-    "problem_id": 15663,
-    "status": "OK",
-    "submission_id": 83742814,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15663.cpp"
-  },
-  {
-    "problem_id": 15664,
-    "status": "OK",
-    "submission_id": 83742847,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15664.cpp"
-  },
-  {
-    "problem_id": 15665,
-    "status": "OK",
-    "submission_id": 83743120,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15665.cpp"
-  },
-  {
-    "problem_id": 15666,
-    "status": "OK",
-    "submission_id": 83743150,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15666.cpp"
-  },
-  {
-    "problem_id": 15678,
-    "status": "OK",
-    "submission_id": 82646140,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15678.cpp"
-  },
-  {
-    "problem_id": 15681,
-    "status": "OK",
-    "submission_id": 80529581,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15681.cpp"
-  },
-  {
-    "problem_id": 15708,
-    "status": "OK",
-    "submission_id": 82673471,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15708.cpp"
-  },
-  {
-    "problem_id": 15714,
-    "status": "OK",
-    "submission_id": 82672707,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15714.cpp"
-  },
-  {
-    "problem_id": 15727,
-    "status": "OK",
-    "submission_id": 93873911,
-    "language": "Python 3 / 수정",
-    "path": "/content/baekjoon/15000/15727.py"
-  },
-  {
-    "problem_id": 15729,
-    "status": "OK",
-    "submission_id": 89863040,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15729.cpp"
-  },
-  {
-    "problem_id": 15737,
-    "status": "OK",
-    "submission_id": 91448063,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15737.cpp"
-  },
-  {
-    "problem_id": 15767,
-    "status": "OK",
-    "submission_id": 99519883,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15767.cpp"
-  },
-  {
-    "problem_id": 15773,
-    "status": "OK",
-    "submission_id": 96816977,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15773.cpp"
-  },
-  {
-    "problem_id": 15825,
-    "status": "OK",
-    "submission_id": 103002201,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15825.cpp"
-  },
-  {
-    "problem_id": 15864,
-    "status": "OK",
-    "submission_id": 100137974,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15864.cpp"
-  },
-  {
-    "problem_id": 15865,
-    "status": "OK",
-    "submission_id": 102321006,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15865.cpp"
-  },
-  {
-    "problem_id": 15867,
-    "status": "OK",
-    "submission_id": 100859627,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15867.cpp"
-  },
-  {
-    "problem_id": 15870,
-    "status": "OK",
-    "submission_id": 102689260,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15870.cpp"
-  },
-  {
-    "problem_id": 15897,
-    "status": "OK",
-    "submission_id": 97918311,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15897.cpp"
-  },
-  {
-    "problem_id": 15899,
-    "status": "OK",
-    "submission_id": 89683467,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15899.cpp"
-  },
-  {
-    "problem_id": 15902,
-    "status": "OK",
-    "submission_id": 101691738,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15902.cpp"
-  },
-  {
-    "problem_id": 15918,
-    "status": "OK",
-    "submission_id": 83021499,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15918.cpp"
-  },
-  {
-    "problem_id": 15939,
-    "status": "OK",
-    "submission_id": 99869933,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15939.cpp"
-  },
-  {
-    "problem_id": 15943,
-    "status": "OK",
-    "submission_id": 102894738,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15943.cpp"
-  },
-  {
-    "problem_id": 15962,
-    "status": "OK",
-    "submission_id": 94713939,
-    "language": "Text / 수정",
-    "path": "/content/baekjoon/15000/15962.txt"
-  },
-  {
-    "problem_id": 15964,
-    "status": "OK",
-    "submission_id": 96557341,
-    "language": "Python 3 / 수정",
-    "path": "/content/baekjoon/15000/15964.py"
-  },
-  {
-    "problem_id": 15971,
-    "status": "OK",
-    "submission_id": 82435293,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15971.cpp"
-  },
-  {
-    "problem_id": 15972,
-    "status": "OK",
-    "submission_id": 88611768,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15972.cpp"
-  },
-  {
-    "problem_id": 15974,
-    "status": "OK",
-    "submission_id": 96991837,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15974.cpp"
-  },
-  {
-    "problem_id": 15977,
-    "status": "OK",
-    "submission_id": 88886132,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15977.cpp"
-  },
-  {
-    "problem_id": 15978,
-    "status": "OK",
-    "submission_id": 94218631,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/15000/15978.cpp"
-  },
-  {
-    "problem_id": 16012,
-    "status": "OK",
-    "submission_id": 102653472,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16012.cpp"
-  },
-  {
-    "problem_id": 16041,
-    "status": "OK",
-    "submission_id": 95493143,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16041.cpp"
-  },
-  {
-    "problem_id": 16115,
-    "status": "OK",
-    "submission_id": 98399691,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16115.cpp"
-  },
-  {
-    "problem_id": 16161,
-    "status": "OK",
-    "submission_id": 91028807,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16161.cpp"
-  },
-  {
-    "problem_id": 16163,
-    "status": "OK",
-    "submission_id": 84273883,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16163.cpp"
-  },
-  {
-    "problem_id": 16170,
-    "status": "OK",
-    "submission_id": 99819180,
-    "language": "Text / 수정",
-    "path": "/content/baekjoon/16000/16170.txt"
-  },
-  {
-    "problem_id": 16183,
-    "status": "OK",
-    "submission_id": 94626449,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16183.cpp"
-  },
-  {
-    "problem_id": 16191,
-    "status": "OK",
-    "submission_id": 99890701,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16191.cpp"
-  },
-  {
-    "problem_id": 16225,
-    "status": "OK",
-    "submission_id": 83906776,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16225.cpp"
-  },
-  {
-    "problem_id": 16232,
-    "status": "OK",
-    "submission_id": 101654380,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16232.cpp"
-  },
-  {
-    "problem_id": 16238,
-    "status": "OK",
-    "submission_id": 81937095,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16238.cpp"
-  },
-  {
-    "problem_id": 16276,
-    "status": "OK",
-    "submission_id": 103002083,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16276.cpp"
-  },
-  {
-    "problem_id": 16287,
-    "status": "OK",
-    "submission_id": 102547619,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16287.cpp"
-  },
-  {
-    "problem_id": 16332,
-    "status": "OK",
-    "submission_id": 96459443,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16332.cpp"
-  },
-  {
-    "problem_id": 16398,
-    "status": "OK",
-    "submission_id": 84718273,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16398.cpp"
-  },
-  {
-    "problem_id": 16453,
-    "status": "OK",
-    "submission_id": 103072825,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16453.cpp"
-  },
-  {
-    "problem_id": 16486,
-    "status": "OK",
-    "submission_id": 86570262,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16486.cpp"
-  },
-  {
-    "problem_id": 16496,
-    "status": "OK",
-    "submission_id": 83051046,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16496.cpp"
-  },
-  {
-    "problem_id": 16570,
-    "status": "OK",
-    "submission_id": 82020859,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16570.cpp"
-  },
-  {
-    "problem_id": 16583,
-    "status": "OK",
-    "submission_id": 101926478,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16583.cpp"
-  },
-  {
-    "problem_id": 16584,
-    "status": "OK",
-    "submission_id": 97613241,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16584.cpp"
-  },
-  {
-    "problem_id": 16604,
-    "status": "OK",
-    "submission_id": 100429572,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16604.cpp"
-  },
-  {
-    "problem_id": 16613,
-    "status": "OK",
-    "submission_id": 84271627,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16613.cpp"
-  },
-  {
-    "problem_id": 16638,
-    "status": "OK",
-    "submission_id": 91808201,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16638.cpp"
-  },
-  {
-    "problem_id": 16661,
-    "status": "OK",
-    "submission_id": 103324213,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16661.cpp"
-  },
-  {
-    "problem_id": 16670,
-    "status": "OK",
-    "submission_id": 101655730,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16670.cpp"
-  },
-  {
-    "problem_id": 16680,
-    "status": "OK",
-    "submission_id": 83909255,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16680.cpp"
-  },
-  {
-    "problem_id": 16724,
-    "status": "OK",
-    "submission_id": 82989873,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16724.cpp"
-  },
-  {
-    "problem_id": 16739,
-    "status": "OK",
-    "submission_id": 97505589,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16739.cpp"
-  },
-  {
-    "problem_id": 16743,
-    "status": "OK",
-    "submission_id": 97506835,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16743.cpp"
-  },
-  {
-    "problem_id": 16744,
-    "status": "OK",
-    "submission_id": 97510686,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16744.cpp"
-  },
-  {
-    "problem_id": 16746,
-    "status": "OK",
-    "submission_id": 97612420,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16746.cpp"
-  },
-  {
-    "problem_id": 16749,
-    "status": "OK",
-    "submission_id": 97506723,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16749.cpp"
-  },
-  {
-    "problem_id": 16777,
-    "status": "OK",
-    "submission_id": 102322941,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16777.cpp"
-  },
-  {
-    "problem_id": 16783,
-    "status": "OK",
-    "submission_id": 92707714,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16783.cpp"
-  },
-  {
-    "problem_id": 16880,
-    "status": "OK",
-    "submission_id": 86357916,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16880.cpp"
-  },
-  {
-    "problem_id": 16883,
-    "status": "OK",
-    "submission_id": 96459136,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16883.cpp"
-  },
-  {
-    "problem_id": 16884,
-    "status": "OK",
-    "submission_id": 82988975,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16884.cpp"
-  },
-  {
-    "problem_id": 16892,
-    "status": "OK",
-    "submission_id": 88801838,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16892.cpp"
-  },
-  {
-    "problem_id": 16900,
-    "status": "OK",
-    "submission_id": 82299285,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16900.cpp"
-  },
-  {
-    "problem_id": 16901,
-    "status": "OK",
-    "submission_id": 94873839,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16901.cpp"
-  },
-  {
-    "problem_id": 16903,
-    "status": "OK",
-    "submission_id": 90549753,
-    "language": "C++17 (Clang) / 수정",
-    "path": "/content/baekjoon/16000/16903.cpp"
-  },
-  {
-    "problem_id": 16909,
-    "status": "OK",
-    "submission_id": 82541013,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16909.cpp"
-  },
-  {
-    "problem_id": 16911,
-    "status": "OK",
-    "submission_id": 92996180,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16911.cpp"
-  },
-  {
-    "problem_id": 16912,
-    "status": "OK",
-    "submission_id": 92996133,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16912.cpp"
-  },
-  {
-    "problem_id": 16975,
-    "status": "OK",
-    "submission_id": 86380720,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16975.cpp"
-  },
-  {
-    "problem_id": 16977,
-    "status": "OK",
-    "submission_id": 93973031,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16977.cpp"
-  },
-  {
-    "problem_id": 16978,
-    "status": "OK",
-    "submission_id": 87744216,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16978.cpp"
-  },
-  {
-    "problem_id": 16982,
-    "status": "OK",
-    "submission_id": 102661142,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16982.cpp"
-  },
-  {
-    "problem_id": 16983,
-    "status": "OK",
-    "submission_id": 99632603,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16983.cpp"
-  },
-  {
-    "problem_id": 16984,
-    "status": "OK",
-    "submission_id": 93117353,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16984.cpp"
-  },
-  {
-    "problem_id": 16988,
-    "status": "OK",
-    "submission_id": 84375448,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16988.cpp"
-  },
-  {
-    "problem_id": 16991,
-    "status": "OK",
-    "submission_id": 104397856,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16991.cpp"
-  },
-  {
-    "problem_id": 16993,
-    "status": "OK",
-    "submission_id": 88613008,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16993.cpp"
-  },
-  {
-    "problem_id": 16998,
-    "status": "OK",
-    "submission_id": 94877987,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/16000/16998.cpp"
-  },
-  {
-    "problem_id": 17018,
-    "status": "OK",
-    "submission_id": 101690600,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17018.cpp"
-  },
-  {
-    "problem_id": 17020,
-    "status": "OK",
-    "submission_id": 97312300,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17020.cpp"
-  },
-  {
-    "problem_id": 17033,
-    "status": "OK",
-    "submission_id": 91083508,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17033.cpp"
-  },
-  {
-    "problem_id": 17046,
-    "status": "OK",
-    "submission_id": 87477522,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17046.cpp"
-  },
-  {
-    "problem_id": 17104,
-    "status": "OK",
-    "submission_id": 83512270,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17104.cpp"
-  },
-  {
-    "problem_id": 17106,
-    "status": "OK",
-    "submission_id": 83796964,
-    "language": "Text / 수정",
-    "path": "/content/baekjoon/17000/17106.txt"
-  },
-  {
-    "problem_id": 17134,
-    "status": "OK",
-    "submission_id": 83543260,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17134.cpp"
-  },
-  {
-    "problem_id": 17146,
-    "status": "OK",
-    "submission_id": 102559471,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17146.cpp"
-  },
-  {
-    "problem_id": 17160,
-    "status": "OK",
-    "submission_id": 98482815,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17160.cpp"
-  },
-  {
-    "problem_id": 17161,
-    "status": "OK",
-    "submission_id": 87231982,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17161.cpp"
-  },
-  {
-    "problem_id": 17165,
-    "status": "OK",
-    "submission_id": 94624062,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17165.cpp"
-  },
-  {
-    "problem_id": 17167,
-    "status": "OK",
-    "submission_id": 83941465,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17167.cpp"
-  },
-  {
-    "problem_id": 17168,
-    "status": "OK",
-    "submission_id": 100434991,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17168.cpp"
-  },
-  {
-    "problem_id": 17169,
-    "status": "OK",
-    "submission_id": 99839555,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17169.cpp"
-  },
-  {
-    "problem_id": 17172,
-    "status": "OK",
-    "submission_id": 95037661,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17172.cpp"
-  },
-  {
-    "problem_id": 17188,
-    "status": "OK",
-    "submission_id": 102509155,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17188.cpp"
-  },
-  {
-    "problem_id": 17228,
-    "status": "OK",
-    "submission_id": 84293508,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17228.cpp"
-  },
-  {
-    "problem_id": 17240,
-    "status": "OK",
-    "submission_id": 80632541,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17240.cpp"
-  },
-  {
-    "problem_id": 17274,
-    "status": "OK",
-    "submission_id": 102682803,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17274.cpp"
-  },
-  {
-    "problem_id": 17298,
-    "status": "OK",
-    "submission_id": 81624498,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17298.cpp"
-  },
-  {
-    "problem_id": 17353,
-    "status": "OK",
-    "submission_id": 91122819,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17353.cpp"
-  },
-  {
-    "problem_id": 17364,
-    "status": "OK",
-    "submission_id": 96676344,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17364.cpp"
-  },
-  {
-    "problem_id": 17367,
-    "status": "OK",
-    "submission_id": 90285317,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17367.cpp"
-  },
-  {
-    "problem_id": 17371,
-    "status": "OK",
-    "submission_id": 80573135,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17371.cpp"
-  },
-  {
-    "problem_id": 17372,
-    "status": "OK",
-    "submission_id": 98032525,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17372.cpp"
-  },
-  {
-    "problem_id": 17386,
-    "status": "OK",
-    "submission_id": 80571134,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17386.cpp"
-  },
-  {
-    "problem_id": 17387,
-    "status": "OK",
-    "submission_id": 80366297,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17387.cpp"
-  },
-  {
-    "problem_id": 17395,
-    "status": "OK",
-    "submission_id": 90352951,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17395.cpp"
-  },
-  {
-    "problem_id": 17396,
-    "status": "OK",
-    "submission_id": 90358956,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17396.cpp"
-  },
-  {
-    "problem_id": 17399,
-    "status": "OK",
-    "submission_id": 90352486,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17399.cpp"
-  },
-  {
-    "problem_id": 17400,
-    "status": "OK",
-    "submission_id": 90353548,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17400.cpp"
-  },
-  {
-    "problem_id": 17401,
-    "status": "OK",
-    "submission_id": 90354789,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17401.cpp"
-  },
-  {
-    "problem_id": 17402,
-    "status": "OK",
-    "submission_id": 90355120,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17402.cpp"
-  },
-  {
-    "problem_id": 17403,
-    "status": "OK",
-    "submission_id": 90357504,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17403.cpp"
-  },
-  {
-    "problem_id": 17406,
-    "status": "OK",
-    "submission_id": 97985072,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17406.cpp"
-  },
-  {
-    "problem_id": 17408,
-    "status": "OK",
-    "submission_id": 86716064,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17408.cpp"
-  },
-  {
-    "problem_id": 17410,
-    "status": "OK",
-    "submission_id": 96814503,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17410.cpp"
-  },
-  {
-    "problem_id": 17411,
-    "status": "OK",
-    "submission_id": 91449393,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17411.cpp"
-  },
-  {
-    "problem_id": 17412,
-    "status": "OK",
-    "submission_id": 88468262,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17412.cpp"
-  },
-  {
-    "problem_id": 17442,
-    "status": "OK",
-    "submission_id": 99891711,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17442.cpp"
-  },
-  {
-    "problem_id": 17458,
-    "status": "OK",
-    "submission_id": 103855103,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17458.cpp"
-  },
-  {
-    "problem_id": 17469,
-    "status": "OK",
-    "submission_id": 95293816,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17469.cpp"
-  },
-  {
-    "problem_id": 17473,
-    "status": "OK",
-    "submission_id": 102878909,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17473.cpp"
-  },
-  {
-    "problem_id": 17474,
-    "status": "OK",
-    "submission_id": 102867878,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17474.cpp"
-  },
-  {
-    "problem_id": 17478,
-    "status": "OK",
-    "submission_id": 84141406,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17478.cpp"
-  },
-  {
-    "problem_id": 17505,
-    "status": "OK",
-    "submission_id": 104328750,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17505.cpp"
-  },
-  {
-    "problem_id": 17517,
-    "status": "OK",
-    "submission_id": 99891984,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17517.cpp"
-  },
-  {
-    "problem_id": 17526,
-    "status": "OK",
-    "submission_id": 93608294,
-    "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17526.cpp"
-  },
-  {
-    "problem_id": 17528,
-    "status": "OK",
-    "submission_id": 90526838,
+    "submission_id": 91851389,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17528.cpp"
+    "path": "/content/baekjoon/21000/21061.cpp"
   },
   {
-    "problem_id": 17606,
+    "problem_id": 21088,
     "status": "OK",
-    "submission_id": 83798443,
+    "submission_id": 83622853,
     "language": "PyPy3 / 수정",
-    "path": "/content/baekjoon/17000/17606.py"
+    "path": "/content/baekjoon/21000/21088.py"
   },
   {
-    "problem_id": 17613,
+    "problem_id": 21099,
     "status": "OK",
-    "submission_id": 94960392,
+    "submission_id": 90731362,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17613.cpp"
+    "path": "/content/baekjoon/21000/21099.cpp"
   },
   {
-    "problem_id": 17616,
+    "problem_id": 21141,
     "status": "OK",
-    "submission_id": 82303808,
+    "submission_id": 90398606,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17616.cpp"
+    "path": "/content/baekjoon/21000/21141.cpp"
   },
   {
-    "problem_id": 17617,
+    "problem_id": 21182,
     "status": "OK",
-    "submission_id": 97070083,
+    "submission_id": 85392249,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17617.cpp"
+    "path": "/content/baekjoon/21000/21182.cpp"
   },
   {
-    "problem_id": 17619,
+    "problem_id": 21200,
     "status": "OK",
-    "submission_id": 81989336,
+    "submission_id": 99088317,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17619.cpp"
+    "path": "/content/baekjoon/21000/21200.cpp"
   },
   {
-    "problem_id": 17624,
+    "problem_id": 21218,
     "status": "OK",
-    "submission_id": 90405052,
+    "submission_id": 85368573,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17624.cpp"
+    "path": "/content/baekjoon/21000/21218.cpp"
   },
   {
-    "problem_id": 17625,
+    "problem_id": 21265,
     "status": "OK",
-    "submission_id": 92734955,
+    "submission_id": 103403874,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17625.cpp"
+    "path": "/content/baekjoon/21000/21265.cpp"
   },
   {
-    "problem_id": 17633,
+    "problem_id": 21598,
     "status": "OK",
-    "submission_id": 83609878,
+    "submission_id": 96154121,
+    "language": "Python 3 / 수정",
+    "path": "/content/baekjoon/21000/21598.py"
+  },
+  {
+    "problem_id": 21607,
+    "status": "OK",
+    "submission_id": 104957939,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17633.cpp"
+    "path": "/content/baekjoon/21000/21607.cpp"
   },
   {
-    "problem_id": 17635,
+    "problem_id": 21725,
     "status": "OK",
-    "submission_id": 92913668,
+    "submission_id": 88990093,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17635.cpp"
+    "path": "/content/baekjoon/21000/21725.cpp"
   },
   {
-    "problem_id": 17642,
+    "problem_id": 21740,
     "status": "OK",
-    "submission_id": 99957887,
+    "submission_id": 83216644,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17642.cpp"
+    "path": "/content/baekjoon/21000/21740.cpp"
   },
   {
-    "problem_id": 17646,
+    "problem_id": 21761,
     "status": "OK",
-    "submission_id": 103362969,
+    "submission_id": 93243186,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17646.cpp"
+    "path": "/content/baekjoon/21000/21761.cpp"
   },
   {
-    "problem_id": 17665,
+    "problem_id": 21762,
     "status": "OK",
-    "submission_id": 91907809,
+    "submission_id": 94961027,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17665.cpp"
+    "path": "/content/baekjoon/21000/21762.cpp"
   },
   {
-    "problem_id": 17668,
+    "problem_id": 21763,
     "status": "OK",
-    "submission_id": 96472716,
+    "submission_id": 102053062,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17668.cpp"
+    "path": "/content/baekjoon/21000/21763.cpp"
   },
   {
-    "problem_id": 17670,
+    "problem_id": 21768,
     "status": "OK",
-    "submission_id": 93281438,
+    "submission_id": 91484683,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17670.cpp"
+    "path": "/content/baekjoon/21000/21768.cpp"
   },
   {
-    "problem_id": 17671,
+    "problem_id": 21788,
     "status": "OK",
-    "submission_id": 101037139,
+    "submission_id": 102602301,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17671.cpp"
+    "path": "/content/baekjoon/21000/21788.cpp"
   },
   {
-    "problem_id": 17672,
+    "problem_id": 21791,
     "status": "OK",
-    "submission_id": 99822609,
+    "submission_id": 99646526,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17672.cpp"
+    "path": "/content/baekjoon/21000/21791.cpp"
   },
   {
-    "problem_id": 17675,
+    "problem_id": 21792,
     "status": "OK",
-    "submission_id": 102667383,
+    "submission_id": 86320291,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17675.cpp"
+    "path": "/content/baekjoon/21000/21792.cpp"
   },
   {
-    "problem_id": 17677,
+    "problem_id": 21793,
     "status": "OK",
-    "submission_id": 95578893,
+    "submission_id": 102603107,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17677.cpp"
+    "path": "/content/baekjoon/21000/21793.cpp"
   },
   {
-    "problem_id": 17689,
+    "problem_id": 21795,
     "status": "OK",
-    "submission_id": 93388421,
+    "submission_id": 102702194,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17689.cpp"
+    "path": "/content/baekjoon/21000/21795.cpp"
   },
   {
-    "problem_id": 17690,
+    "problem_id": 21816,
     "status": "OK",
-    "submission_id": 88150776,
+    "submission_id": 102592368,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17690.cpp"
+    "path": "/content/baekjoon/21000/21816.cpp"
   },
   {
-    "problem_id": 17694,
+    "problem_id": 21845,
     "status": "OK",
-    "submission_id": 102421214,
+    "submission_id": 99079347,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17694.cpp"
+    "path": "/content/baekjoon/21000/21845.cpp"
   },
   {
-    "problem_id": 17697,
+    "problem_id": 21848,
     "status": "OK",
-    "submission_id": 102717879,
+    "submission_id": 95520486,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17697.cpp"
+    "path": "/content/baekjoon/21000/21848.cpp"
   },
   {
-    "problem_id": 17699,
+    "problem_id": 21913,
     "status": "OK",
-    "submission_id": 94778483,
+    "submission_id": 95965898,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17699.cpp"
+    "path": "/content/baekjoon/21000/21913.cpp"
   },
   {
-    "problem_id": 17707,
+    "problem_id": 21924,
     "status": "OK",
-    "submission_id": 96236768,
+    "submission_id": 84718434,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17707.cpp"
+    "path": "/content/baekjoon/21000/21924.cpp"
   },
   {
-    "problem_id": 17709,
+    "problem_id": 21928,
     "status": "OK",
-    "submission_id": 98615657,
+    "submission_id": 100938204,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17709.cpp"
+    "path": "/content/baekjoon/21000/21928.cpp"
   },
   {
-    "problem_id": 17711,
+    "problem_id": 21930,
     "status": "OK",
-    "submission_id": 94511494,
+    "submission_id": 100935100,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17711.cpp"
+    "path": "/content/baekjoon/21000/21930.cpp"
   },
   {
-    "problem_id": 17736,
+    "problem_id": 21931,
     "status": "OK",
-    "submission_id": 89336965,
+    "submission_id": 100950815,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17736.cpp"
+    "path": "/content/baekjoon/21000/21931.cpp"
   },
   {
-    "problem_id": 17737,
+    "problem_id": 21932,
     "status": "OK",
-    "submission_id": 89342633,
+    "submission_id": 100974910,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17737.cpp"
+    "path": "/content/baekjoon/21000/21932.cpp"
   },
   {
-    "problem_id": 17738,
+    "problem_id": 21933,
     "status": "OK",
-    "submission_id": 94793437,
+    "submission_id": 100935032,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17738.cpp"
+    "path": "/content/baekjoon/21000/21933.cpp"
   },
   {
-    "problem_id": 17741,
+    "problem_id": 21934,
     "status": "OK",
-    "submission_id": 88503380,
+    "submission_id": 100971974,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17741.cpp"
+    "path": "/content/baekjoon/21000/21934.cpp"
   },
   {
-    "problem_id": 17767,
+    "problem_id": 21936,
     "status": "OK",
-    "submission_id": 99215353,
+    "submission_id": 100943616,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17767.cpp"
+    "path": "/content/baekjoon/21000/21936.cpp"
   },
   {
-    "problem_id": 17771,
+    "problem_id": 22026,
     "status": "OK",
-    "submission_id": 104893511,
+    "submission_id": 102217769,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17771.cpp"
+    "path": "/content/baekjoon/22000/22026.cpp"
   },
   {
-    "problem_id": 17776,
+    "problem_id": 22029,
     "status": "OK",
-    "submission_id": 102535852,
+    "submission_id": 102217791,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17776.cpp"
+    "path": "/content/baekjoon/22000/22029.cpp"
   },
   {
-    "problem_id": 17831,
+    "problem_id": 22046,
     "status": "OK",
-    "submission_id": 90526905,
+    "submission_id": 93282010,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17831.cpp"
+    "path": "/content/baekjoon/22000/22046.cpp"
   },
   {
-    "problem_id": 17844,
+    "problem_id": 22200,
     "status": "OK",
-    "submission_id": 84857582,
+    "submission_id": 102375263,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17844.cpp"
+    "path": "/content/baekjoon/22000/22200.cpp"
   },
   {
-    "problem_id": 17936,
+    "problem_id": 22289,
     "status": "OK",
-    "submission_id": 105050442,
-    "language": "C++26 / 수정",
-    "path": "/content/baekjoon/17000/17936.cpp"
-  },
-  {
-    "problem_id": 17961,
-    "status": "OK",
-    "submission_id": 101347236,
+    "submission_id": 83500072,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17961.cpp"
+    "path": "/content/baekjoon/22000/22289.cpp"
   },
   {
-    "problem_id": 17965,
+    "problem_id": 22343,
     "status": "OK",
-    "submission_id": 90621482,
+    "submission_id": 81399185,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17965.cpp"
+    "path": "/content/baekjoon/22000/22343.cpp"
   },
   {
-    "problem_id": 17970,
+    "problem_id": 22346,
     "status": "OK",
-    "submission_id": 87884997,
+    "submission_id": 98451531,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17970.cpp"
+    "path": "/content/baekjoon/22000/22346.cpp"
   },
   {
-    "problem_id": 17971,
+    "problem_id": 22350,
     "status": "OK",
-    "submission_id": 101017953,
+    "submission_id": 99646607,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17971.cpp"
+    "path": "/content/baekjoon/22000/22350.cpp"
   },
   {
-    "problem_id": 17973,
+    "problem_id": 22354,
     "status": "OK",
-    "submission_id": 92776180,
+    "submission_id": 91508209,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/17000/17973.cpp"
+    "path": "/content/baekjoon/22000/22354.cpp"
   },
   {
-    "problem_id": 18108,
+    "problem_id": 22360,
     "status": "OK",
-    "submission_id": 86282200,
+    "submission_id": 85737088,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/22000/22360.cpp"
+  },
+  {
+    "problem_id": 22601,
+    "status": "OK",
+    "submission_id": 95569675,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/22000/22601.cpp"
+  },
+  {
+    "problem_id": 22932,
+    "status": "OK",
+    "submission_id": 105002099,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/22000/22932.cpp"
+  },
+  {
+    "problem_id": 22977,
+    "status": "OK",
+    "submission_id": 83798460,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/22000/22977.cpp"
+  },
+  {
+    "problem_id": 22996,
+    "status": "OK",
+    "submission_id": 98496014,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/22000/22996.cpp"
+  },
+  {
+    "problem_id": 23024,
+    "status": "OK",
+    "submission_id": 90396660,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23024.cpp"
+  },
+  {
+    "problem_id": 23032,
+    "status": "OK",
+    "submission_id": 104328579,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23032.cpp"
+  },
+  {
+    "problem_id": 23042,
+    "status": "OK",
+    "submission_id": 83216342,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23042.cpp"
+  },
+  {
+    "problem_id": 23046,
+    "status": "OK",
+    "submission_id": 99947769,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23046.cpp"
+  },
+  {
+    "problem_id": 23065,
+    "status": "OK",
+    "submission_id": 102702485,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23065.cpp"
+  },
+  {
+    "problem_id": 23127,
+    "status": "OK",
+    "submission_id": 88194827,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23127.cpp"
+  },
+  {
+    "problem_id": 23197,
+    "status": "OK",
+    "submission_id": 97562015,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23197.cpp"
+  },
+  {
+    "problem_id": 23254,
+    "status": "OK",
+    "submission_id": 83014579,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23254.cpp"
+  },
+  {
+    "problem_id": 23257,
+    "status": "OK",
+    "submission_id": 84471088,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23257.cpp"
+  },
+  {
+    "problem_id": 23260,
+    "status": "OK",
+    "submission_id": 91503129,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23260.cpp"
+  },
+  {
+    "problem_id": 23359,
+    "status": "ERROR",
+    "submission_id": null,
+    "language": null,
+    "path": null,
+    "error": "소스코드를 찾지 못했습니다.\n페이지 제목: 98739862번 소스 코드\n\n페이지 텍스트 앞부분:\n98739862번 소스 코드\nrealpsdoingdamyoo\n설정\n로그아웃\nToggle navigation\n문제\n문제\n전체 문제\n문제 출처\n단계별로 풀어보기\n알고리즘 분류\n추가된 문제\n문제 순위\n북마크\n문제\n내가 실패한 문제\n내가 못 푼 문제\n나만 푼 문제\n푼 사람이 한 명인 문제\n아무도 못 푼 문제\n최근 제출된 문제\n최근 풀린 문제\n안 푼 문제 랜덤\n전체 문제 랜덤\n출처\nICPC\nOlympiad\n한국정보올림피아드\n한국정보올림피아드시․도지역본선\n전국 대학생 프로그래밍 대회 동아리 연합\n대학교 대회\n카카오 코드 페스티벌\nCoder's High\nICPC\nRegionals\nWorld Finals\nKorea Regional\nAfrica and the Middle East Regionals\nEurope Regionals\nLatin America Regionals\nNorth America Regionals\nSouth Pacific Regionals\n문제집\n대회\n2\n채점 현황\n게시판\n그룹\n더 보기\n재채점 기록\n블로그\n강의\n실험실\n도움말\nBOJ Stack\nBOJ Book\n소스 코드 공개\n공개\n비공개\n맞았을 때만 공개\n수정\n복사\n다운로드\n공유\n제출 번호\n아이디\n문제\n문제 제목\n결과\n메모리\n시간\n언어\n코드 길이\n제출한 시간\n98739862\nrealpsdoingdamyoo\n23359\nQuack Strikes Back (Hard)\n맞았습니다!!\n4528\n0\nText\n1\n7달 전\n내 소스를 본 사람\nBaekjoon Online Judge\n소개\n뉴스\n생중계\n설문조사\n블로그\n디스코드 서버\n기부하기\n기능 추가 요청\n스페셜 저지 제작\n실험실\n채점 현황\n채점 현황\n문제\n문제\n단계\n분류\n추가된 문제\n문제 순위\n최근 제출된 문제\n최근 풀린 문제\n재채점 및 문제 수정\n유저 대회\nFunctionCup\nGood Bye, BOJ\nIDTcup\nkriiicon\nSemi-Game Cup\n구데기컵\n꼬마컵\n네블컵\n소프트콘\n아니메컵\n월간 향유회\n웰노운컵\n유틸컵\n키파컵\n피갤컵\n흐즈로컵\nHYEA Cup\n고등학교 대회\nNLCS Jeju\n경기과학고등학교\n경기북과학고등학교\n단국대학교부속소프트웨어고등학교\n대구과학고등학교\n대전과학고등학교\n서울과학고등학교\n선린인터넷고등학교\n세종과학예술영재학교\n송도고등학교\n한국과학영재학교\n한국디지털미디어고등학교\n출처\nICPC\nICPC Korea Regional\nOlympiad\n한국정보올림피아드\n한국정보올림피아드시․도지역본선\n카카오 코드 페스티벌\nCoder's High\nOpen Cup\nPetrozavodsk Programming Camp\n대학교 대회\nDGIST\nKAIST\nPOSTECH\nUNIST\n가톨릭대학교\n강원대학교\n건국대학교\n경북대학교\n경인지역 대학 연합\n고려대학교\n광주과학기술원\n국민대학교\n부산대학교\n서강대학교\n서울과학기술대학교\n서울대학교\n서울사이버대학교\n서울시립대학교\n성균관대학교\n숙명여자대학교\n숭실대학교\n아주대학교\n연세대학교\n연세대학교 미래캠퍼스\n인천대학교\n인하대학교\n전남대학교\n전북대학교\n중앙대학교\n충남대학교\n한국항공대학교\n한양대학교\n한양대학교 ERICA 캠퍼스\n홍익대\n\nHTML을 debug_boj_source_page.html 파일로 저장했습니다."
+  },
+  {
+    "problem_id": 23362,
+    "status": "OK",
+    "submission_id": 83649827,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23362.cpp"
+  },
+  {
+    "problem_id": 23402,
+    "status": "OK",
+    "submission_id": 104519444,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23402.cpp"
+  },
+  {
+    "problem_id": 23477,
+    "status": "OK",
+    "submission_id": 100100276,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23477.cpp"
+  },
+  {
+    "problem_id": 23492,
+    "status": "OK",
+    "submission_id": 102938929,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23492.cpp"
+  },
+  {
+    "problem_id": 23575,
+    "status": "OK",
+    "submission_id": 83996831,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23575.cpp"
+  },
+  {
+    "problem_id": 23820,
+    "status": "OK",
+    "submission_id": 95698359,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23820.cpp"
+  },
+  {
+    "problem_id": 23823,
+    "status": "OK",
+    "submission_id": 96174019,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23823.cpp"
+  },
+  {
+    "problem_id": 23836,
+    "status": "OK",
+    "submission_id": 91138552,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23836.cpp"
+  },
+  {
+    "problem_id": 23848,
+    "status": "OK",
+    "submission_id": 104517723,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23848.cpp"
+  },
+  {
+    "problem_id": 23863,
+    "status": "OK",
+    "submission_id": 93895752,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/23000/23863.cpp"
+  },
+  {
+    "problem_id": 24027,
+    "status": "OK",
+    "submission_id": 98826538,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24027.cpp"
+  },
+  {
+    "problem_id": 24113,
+    "status": "OK",
+    "submission_id": 99215142,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24113.cpp"
+  },
+  {
+    "problem_id": 24355,
+    "status": "OK",
+    "submission_id": 84229534,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24355.cpp"
+  },
+  {
+    "problem_id": 24406,
+    "status": "OK",
+    "submission_id": 104959288,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24406.cpp"
+  },
+  {
+    "problem_id": 24438,
+    "status": "OK",
+    "submission_id": 101786033,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24438.cpp"
+  },
+  {
+    "problem_id": 24442,
+    "status": "OK",
+    "submission_id": 93556731,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24442.cpp"
+  },
+  {
+    "problem_id": 24450,
+    "status": "OK",
+    "submission_id": 88504194,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24450.cpp"
+  },
+  {
+    "problem_id": 24486,
+    "status": "OK",
+    "submission_id": 101712662,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24486.cpp"
+  },
+  {
+    "problem_id": 24487,
+    "status": "OK",
+    "submission_id": 98524761,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24487.cpp"
+  },
+  {
+    "problem_id": 24490,
+    "status": "OK",
+    "submission_id": 102670548,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24490.cpp"
+  },
+  {
+    "problem_id": 24505,
+    "status": "OK",
+    "submission_id": 87958329,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24505.cpp"
+  },
+  {
+    "problem_id": 24518,
+    "status": "OK",
+    "submission_id": 95688040,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24518.cpp"
+  },
+  {
+    "problem_id": 24640,
+    "status": "OK",
+    "submission_id": 98900556,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24640.cpp"
+  },
+  {
+    "problem_id": 24710,
+    "status": "OK",
+    "submission_id": 103473948,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24710.cpp"
+  },
+  {
+    "problem_id": 24744,
+    "status": "OK",
+    "submission_id": 103231973,
+    "language": "PyPy3 / 수정",
+    "path": "/content/baekjoon/24000/24744.py"
+  },
+  {
+    "problem_id": 24894,
+    "status": "OK",
+    "submission_id": 97589606,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24894.cpp"
+  },
+  {
+    "problem_id": 24918,
+    "status": "OK",
+    "submission_id": 99050614,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24918.cpp"
+  },
+  {
+    "problem_id": 24943,
+    "status": "OK",
+    "submission_id": 94188478,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24943.cpp"
+  },
+  {
+    "problem_id": 24945,
+    "status": "OK",
+    "submission_id": 102440335,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24945.cpp"
+  },
+  {
+    "problem_id": 24947,
+    "status": "OK",
+    "submission_id": 102438403,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24947.cpp"
+  },
+  {
+    "problem_id": 24948,
+    "status": "OK",
+    "submission_id": 103700639,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/24000/24948.cpp"
+  },
+  {
+    "problem_id": 25013,
+    "status": "OK",
+    "submission_id": 93080006,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25013.cpp"
+  },
+  {
+    "problem_id": 25014,
+    "status": "OK",
+    "submission_id": 93173239,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25014.cpp"
+  },
+  {
+    "problem_id": 25015,
+    "status": "OK",
+    "submission_id": 98564166,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25015.cpp"
+  },
+  {
+    "problem_id": 25016,
+    "status": "OK",
+    "submission_id": 99677270,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25016.cpp"
+  },
+  {
+    "problem_id": 25019,
+    "status": "OK",
+    "submission_id": 102059946,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25019.cpp"
+  },
+  {
+    "problem_id": 25021,
+    "status": "OK",
+    "submission_id": 102239952,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25021.cpp"
+  },
+  {
+    "problem_id": 25022,
+    "status": "OK",
+    "submission_id": 100741384,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25022.cpp"
+  },
+  {
+    "problem_id": 25029,
+    "status": "OK",
+    "submission_id": 101890511,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25029.cpp"
+  },
+  {
+    "problem_id": 25095,
+    "status": "OK",
+    "submission_id": 100105016,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25095.cpp"
+  },
+  {
+    "problem_id": 25182,
+    "status": "OK",
+    "submission_id": 86169330,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25182.cpp"
+  },
+  {
+    "problem_id": 25196,
+    "status": "OK",
+    "submission_id": 86707721,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25196.cpp"
+  },
+  {
+    "problem_id": 25232,
+    "status": "OK",
+    "submission_id": 98495474,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25232.cpp"
+  },
+  {
+    "problem_id": 25311,
+    "status": "OK",
+    "submission_id": 92655134,
+    "language": "Text / 수정",
+    "path": "/content/baekjoon/25000/25311.txt"
+  },
+  {
+    "problem_id": 25323,
+    "status": "OK",
+    "submission_id": 83908935,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25323.cpp"
+  },
+  {
+    "problem_id": 25332,
+    "status": "OK",
+    "submission_id": 82988797,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25332.cpp"
+  },
+  {
+    "problem_id": 25380,
+    "status": "OK",
+    "submission_id": 92151355,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25380.cpp"
+  },
+  {
+    "problem_id": 25382,
+    "status": "OK",
+    "submission_id": 94953217,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25382.cpp"
+  },
+  {
+    "problem_id": 25402,
+    "status": "OK",
+    "submission_id": 89549814,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25402.cpp"
+  },
+  {
+    "problem_id": 25403,
+    "status": "OK",
+    "submission_id": 102672103,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25403.cpp"
+  },
+  {
+    "problem_id": 25404,
+    "status": "OK",
+    "submission_id": 96911691,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25404.cpp"
+  },
+  {
+    "problem_id": 25405,
+    "status": "OK",
+    "submission_id": 97080328,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25405.cpp"
+  },
+  {
+    "problem_id": 25406,
+    "status": "OK",
+    "submission_id": 88547492,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25406.cpp"
+  },
+  {
+    "problem_id": 25408,
+    "status": "OK",
+    "submission_id": 101598379,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25408.cpp"
+  },
+  {
+    "problem_id": 25433,
+    "status": "OK",
+    "submission_id": 90170026,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25433.cpp"
+  },
+  {
+    "problem_id": 25439,
+    "status": "OK",
+    "submission_id": 91623559,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25439.cpp"
+  },
+  {
+    "problem_id": 25440,
+    "status": "OK",
+    "submission_id": 94562533,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25440.cpp"
+  },
+  {
+    "problem_id": 25441,
+    "status": "OK",
+    "submission_id": 98396522,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25441.cpp"
+  },
+  {
+    "problem_id": 25442,
+    "status": "OK",
+    "submission_id": 87068514,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25442.cpp"
+  },
+  {
+    "problem_id": 25443,
+    "status": "OK",
+    "submission_id": 99115803,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25443.cpp"
+  },
+  {
+    "problem_id": 25448,
+    "status": "OK",
+    "submission_id": 104857946,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25448.cpp"
+  },
+  {
+    "problem_id": 25461,
+    "status": "OK",
+    "submission_id": 104570543,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25461.cpp"
+  },
+  {
+    "problem_id": 25490,
+    "status": "OK",
+    "submission_id": 92687243,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25490.cpp"
+  },
+  {
+    "problem_id": 25503,
+    "status": "OK",
+    "submission_id": 82657465,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25503.cpp"
+  },
+  {
+    "problem_id": 25549,
+    "status": "OK",
+    "submission_id": 96658509,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25549.cpp"
+  },
+  {
+    "problem_id": 25563,
+    "status": "OK",
+    "submission_id": 89459806,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25563.cpp"
+  },
+  {
+    "problem_id": 25609,
+    "status": "OK",
+    "submission_id": 96300134,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25609.cpp"
+  },
+  {
+    "problem_id": 25635,
+    "status": "OK",
+    "submission_id": 84531017,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25635.cpp"
+  },
+  {
+    "problem_id": 25639,
+    "status": "OK",
+    "submission_id": 89504986,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25639.cpp"
+  },
+  {
+    "problem_id": 25682,
+    "status": "OK",
+    "submission_id": 97701682,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25682.cpp"
+  },
+  {
+    "problem_id": 25783,
+    "status": "OK",
+    "submission_id": 98482434,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25783.cpp"
+  },
+  {
+    "problem_id": 25794,
+    "status": "OK",
+    "submission_id": 97984893,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25794.cpp"
+  },
+  {
+    "problem_id": 25798,
+    "status": "OK",
+    "submission_id": 87469834,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25798.cpp"
+  },
+  {
+    "problem_id": 25952,
+    "status": "OK",
+    "submission_id": 98702878,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25952.cpp"
+  },
+  {
+    "problem_id": 25954,
+    "status": "OK",
+    "submission_id": 103951503,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/25000/25954.cpp"
+  },
+  {
+    "problem_id": 26056,
+    "status": "OK",
+    "submission_id": 95739218,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26056.cpp"
+  },
+  {
+    "problem_id": 26072,
+    "status": "OK",
+    "submission_id": 82066932,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26072.cpp"
+  },
+  {
+    "problem_id": 26074,
+    "status": "OK",
+    "submission_id": 83931353,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26074.cpp"
+  },
+  {
+    "problem_id": 26087,
+    "status": "OK",
+    "submission_id": 86720640,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26087.cpp"
+  },
+  {
+    "problem_id": 26095,
+    "status": "OK",
+    "submission_id": 91533663,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26095.cpp"
+  },
+  {
+    "problem_id": 26102,
+    "status": "OK",
+    "submission_id": 96454647,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26102.cpp"
+  },
+  {
+    "problem_id": 26103,
+    "status": "OK",
+    "submission_id": 96460381,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26103.cpp"
+  },
+  {
+    "problem_id": 26104,
+    "status": "OK",
+    "submission_id": 96454657,
+    "language": "C++17 (Clang) / 수정",
+    "path": "/content/baekjoon/26000/26104.cpp"
+  },
+  {
+    "problem_id": 26146,
+    "status": "OK",
+    "submission_id": 99215173,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26146.cpp"
+  },
+  {
+    "problem_id": 26154,
+    "status": "OK",
+    "submission_id": 91029663,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26154.cpp"
+  },
+  {
+    "problem_id": 26177,
+    "status": "OK",
+    "submission_id": 82976910,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26177.cpp"
+  },
+  {
+    "problem_id": 26191,
+    "status": "OK",
+    "submission_id": 102329436,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26191.cpp"
+  },
+  {
+    "problem_id": 26217,
+    "status": "OK",
+    "submission_id": 97913655,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26217.cpp"
+  },
+  {
+    "problem_id": 26221,
+    "status": "OK",
+    "submission_id": 99287438,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26221.cpp"
+  },
+  {
+    "problem_id": 26529,
+    "status": "OK",
+    "submission_id": 90180121,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26529.cpp"
+  },
+  {
+    "problem_id": 26598,
+    "status": "OK",
+    "submission_id": 83015195,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/26000/26598.cpp"
+  },
+  {
+    "problem_id": 26711,
+    "status": "OK",
+    "submission_id": 86794590,
     "language": "Golfscript / 수정",
-    "path": "/content/baekjoon/18000/18108.go"
+    "path": "/content/baekjoon/26000/26711.go"
   },
   {
-    "problem_id": 18123,
+    "problem_id": 26794,
     "status": "OK",
-    "submission_id": 98604954,
+    "submission_id": 97479679,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18123.cpp"
+    "path": "/content/baekjoon/26000/26794.cpp"
   },
   {
-    "problem_id": 18137,
+    "problem_id": 26865,
     "status": "OK",
-    "submission_id": 88990249,
+    "submission_id": 100576479,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18137.cpp"
+    "path": "/content/baekjoon/26000/26865.cpp"
   },
   {
-    "problem_id": 18171,
+    "problem_id": 27045,
     "status": "OK",
-    "submission_id": 84223662,
+    "submission_id": 89522351,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18171.cpp"
+    "path": "/content/baekjoon/27000/27045.cpp"
   },
   {
-    "problem_id": 18185,
+    "problem_id": 27092,
     "status": "OK",
-    "submission_id": 83419187,
+    "submission_id": 101038364,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18185.cpp"
+    "path": "/content/baekjoon/27000/27092.cpp"
   },
   {
-    "problem_id": 18186,
+    "problem_id": 27196,
     "status": "OK",
-    "submission_id": 83419153,
+    "submission_id": 104326524,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18186.cpp"
+    "path": "/content/baekjoon/27000/27196.cpp"
   },
   {
-    "problem_id": 18193,
+    "problem_id": 27233,
     "status": "OK",
-    "submission_id": 100906740,
+    "submission_id": 88056568,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18193.cpp"
+    "path": "/content/baekjoon/27000/27233.cpp"
   },
   {
-    "problem_id": 18216,
+    "problem_id": 27236,
     "status": "OK",
-    "submission_id": 103069613,
+    "submission_id": 93047435,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18216.cpp"
+    "path": "/content/baekjoon/27000/27236.cpp"
   },
   {
-    "problem_id": 18235,
+    "problem_id": 27284,
     "status": "OK",
-    "submission_id": 84521086,
+    "submission_id": 102566385,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18235.cpp"
+    "path": "/content/baekjoon/27000/27284.cpp"
   },
   {
-    "problem_id": 18253,
+    "problem_id": 27289,
     "status": "OK",
-    "submission_id": 92123115,
+    "submission_id": 102521755,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18253.cpp"
+    "path": "/content/baekjoon/27000/27289.cpp"
   },
   {
-    "problem_id": 18282,
+    "problem_id": 27323,
     "status": "OK",
-    "submission_id": 102377207,
+    "submission_id": 86635436,
+    "language": "Golfscript / 수정",
+    "path": "/content/baekjoon/27000/27323.go"
+  },
+  {
+    "problem_id": 27345,
+    "status": "OK",
+    "submission_id": 89921444,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27345.cpp"
+  },
+  {
+    "problem_id": 27351,
+    "status": "OK",
+    "submission_id": 102370069,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27351.cpp"
+  },
+  {
+    "problem_id": 27364,
+    "status": "OK",
+    "submission_id": 101019168,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27364.cpp"
+  },
+  {
+    "problem_id": 27380,
+    "status": "OK",
+    "submission_id": 102424176,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27380.cpp"
+  },
+  {
+    "problem_id": 27416,
+    "status": "OK",
+    "submission_id": 90494798,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27416.cpp"
+  },
+  {
+    "problem_id": 27417,
+    "status": "OK",
+    "submission_id": 97953112,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27417.cpp"
+  },
+  {
+    "problem_id": 27485,
+    "status": "OK",
+    "submission_id": 84280918,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27485.cpp"
+  },
+  {
+    "problem_id": 27504,
+    "status": "OK",
+    "submission_id": 82808600,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27504.cpp"
+  },
+  {
+    "problem_id": 27508,
+    "status": "OK",
+    "submission_id": 102047785,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27508.cpp"
+  },
+  {
+    "problem_id": 27509,
+    "status": "OK",
+    "submission_id": 101855133,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27509.cpp"
+  },
+  {
+    "problem_id": 27510,
+    "status": "OK",
+    "submission_id": 102143578,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27510.cpp"
+  },
+  {
+    "problem_id": 27511,
+    "status": "OK",
+    "submission_id": 88027677,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27511.cpp"
+  },
+  {
+    "problem_id": 27512,
+    "status": "OK",
+    "submission_id": 87173938,
+    "language": "Python 3 / 수정",
+    "path": "/content/baekjoon/27000/27512.py"
+  },
+  {
+    "problem_id": 27526,
+    "status": "OK",
+    "submission_id": 82825259,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27526.cpp"
+  },
+  {
+    "problem_id": 27532,
+    "status": "OK",
+    "submission_id": 104327167,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27532.cpp"
+  },
+  {
+    "problem_id": 27533,
+    "status": "OK",
+    "submission_id": 97913458,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27533.cpp"
+  },
+  {
+    "problem_id": 27605,
+    "status": "OK",
+    "submission_id": 101985830,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27605.cpp"
+  },
+  {
+    "problem_id": 27606,
+    "status": "OK",
+    "submission_id": 102106962,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27606.cpp"
+  },
+  {
+    "problem_id": 27607,
+    "status": "OK",
+    "submission_id": 102053652,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27607.cpp"
+  },
+  {
+    "problem_id": 27608,
+    "status": "OK",
+    "submission_id": 102138867,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/27000/27608.cpp"
+  },
+  {
+    "problem_id": 27735,
+    "status": "OK",
+    "submission_id": 101605974,
+    "language": "C++26 / 수정",
+    "path": "/content/baekjoon/27000/27735.cpp"
+  },
+  {
+    "problem_id": 27814,
+    "status": "OK",
+    "submission_id": 103469227,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18282.cpp"
+    "path": "/content/baekjoon/27000/27814.cpp"
   },
   {
-    "problem_id": 18372,
+    "problem_id": 27841,
     "status": "OK",
-    "submission_id": 100575379,
+    "submission_id": 102596482,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18372.cpp"
+    "path": "/content/baekjoon/27000/27841.cpp"
   },
   {
-    "problem_id": 18424,
+    "problem_id": 27844,
     "status": "OK",
-    "submission_id": 98537553,
+    "submission_id": 102681827,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18424.cpp"
+    "path": "/content/baekjoon/27000/27844.cpp"
+  },
+  {
+    "problem_id": 27866,
+    "status": "OK",
+    "submission_id": 94445306,
+    "language": "Python 3 / 수정",
+    "path": "/content/baekjoon/27000/27866.py"
   },
   {
-    "problem_id": 18438,
+    "problem_id": 27915,
     "status": "OK",
-    "submission_id": 87219914,
+    "submission_id": 80267500,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18438.cpp"
+    "path": "/content/baekjoon/27000/27915.cpp"
   },
   {
-    "problem_id": 18439,
+    "problem_id": 27996,
     "status": "OK",
-    "submission_id": 89385211,
+    "submission_id": 102652599,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18439.cpp"
+    "path": "/content/baekjoon/27000/27996.cpp"
   },
   {
-    "problem_id": 18440,
+    "problem_id": 28000,
     "status": "OK",
-    "submission_id": 89374275,
+    "submission_id": 94134065,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18440.cpp"
+    "path": "/content/baekjoon/28000/28000.cpp"
   },
   {
-    "problem_id": 18441,
+    "problem_id": 28002,
     "status": "OK",
-    "submission_id": 89387197,
+    "submission_id": 101640181,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18441.cpp"
+    "path": "/content/baekjoon/28000/28002.cpp"
   },
   {
-    "problem_id": 18473,
+    "problem_id": 28003,
     "status": "OK",
-    "submission_id": 101623274,
+    "submission_id": 92336685,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18473.cpp"
+    "path": "/content/baekjoon/28000/28003.cpp"
   },
   {
-    "problem_id": 18527,
+    "problem_id": 28030,
     "status": "OK",
-    "submission_id": 105048910,
-    "language": "PyPy3 / 수정",
-    "path": "/content/baekjoon/18000/18527.py"
+    "submission_id": 94491471,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/28000/28030.cpp"
   },
   {
-    "problem_id": 18531,
+    "problem_id": 28067,
     "status": "OK",
-    "submission_id": 84196503,
+    "submission_id": 84371982,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18531.cpp"
+    "path": "/content/baekjoon/28000/28067.cpp"
   },
   {
-    "problem_id": 18580,
+    "problem_id": 28119,
     "status": "OK",
-    "submission_id": 104518068,
+    "submission_id": 97613906,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18580.cpp"
+    "path": "/content/baekjoon/28000/28119.cpp"
   },
   {
-    "problem_id": 18596,
+    "problem_id": 28123,
     "status": "OK",
-    "submission_id": 94684163,
+    "submission_id": 85331766,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18596.cpp"
+    "path": "/content/baekjoon/28000/28123.cpp"
   },
   {
-    "problem_id": 18605,
+    "problem_id": 28147,
     "status": "OK",
-    "submission_id": 97493054,
+    "submission_id": 90711614,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18605.cpp"
+    "path": "/content/baekjoon/28000/28147.cpp"
   },
   {
-    "problem_id": 18665,
+    "problem_id": 28181,
     "status": "OK",
-    "submission_id": 87007456,
+    "submission_id": 103087593,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18665.cpp"
+    "path": "/content/baekjoon/28000/28181.cpp"
   },
   {
-    "problem_id": 18719,
+    "problem_id": 28215,
     "status": "OK",
-    "submission_id": 91949428,
+    "submission_id": 86346899,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18719.cpp"
+    "path": "/content/baekjoon/28000/28215.cpp"
   },
   {
-    "problem_id": 18720,
+    "problem_id": 28218,
     "status": "OK",
-    "submission_id": 82065012,
+    "submission_id": 86357459,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18720.cpp"
+    "path": "/content/baekjoon/28000/28218.cpp"
   },
   {
-    "problem_id": 18755,
+    "problem_id": 28219,
     "status": "OK",
-    "submission_id": 93484396,
+    "submission_id": 86345915,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18755.cpp"
+    "path": "/content/baekjoon/28000/28219.cpp"
   },
   {
-    "problem_id": 18762,
+    "problem_id": 28220,
     "status": "OK",
-    "submission_id": 103384319,
+    "submission_id": 94952668,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18762.cpp"
+    "path": "/content/baekjoon/28000/28220.cpp"
   },
   {
-    "problem_id": 18768,
+    "problem_id": 28232,
     "status": "OK",
-    "submission_id": 81608830,
+    "submission_id": 95723263,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18768.cpp"
+    "path": "/content/baekjoon/28000/28232.cpp"
   },
   {
-    "problem_id": 18777,
+    "problem_id": 28244,
     "status": "OK",
-    "submission_id": 95398068,
+    "submission_id": 90074425,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18777.cpp"
+    "path": "/content/baekjoon/28000/28244.cpp"
   },
   {
-    "problem_id": 18791,
+    "problem_id": 28261,
     "status": "OK",
-    "submission_id": 104857936,
+    "submission_id": 97920012,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18791.cpp"
+    "path": "/content/baekjoon/28000/28261.cpp"
+  },
+  {
+    "problem_id": 28263,
+    "status": "OK",
+    "submission_id": 98565217,
+    "language": "Text / 수정",
+    "path": "/content/baekjoon/28000/28263.txt"
   },
   {
-    "problem_id": 18792,
+    "problem_id": 28297,
     "status": "OK",
-    "submission_id": 104857971,
+    "submission_id": 98596934,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18792.cpp"
+    "path": "/content/baekjoon/28000/28297.cpp"
   },
   {
-    "problem_id": 18793,
+    "problem_id": 28328,
     "status": "OK",
-    "submission_id": 103049472,
+    "submission_id": 92396795,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18793.cpp"
+    "path": "/content/baekjoon/28000/28328.cpp"
   },
   {
-    "problem_id": 18796,
+    "problem_id": 28329,
     "status": "OK",
-    "submission_id": 94187678,
+    "submission_id": 99634245,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18796.cpp"
+    "path": "/content/baekjoon/28000/28329.cpp"
   },
   {
-    "problem_id": 18798,
+    "problem_id": 28346,
     "status": "OK",
-    "submission_id": 96840352,
+    "submission_id": 98505769,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18798.cpp"
+    "path": "/content/baekjoon/28000/28346.cpp"
   },
   {
-    "problem_id": 18838,
+    "problem_id": 28436,
     "status": "OK",
-    "submission_id": 96857425,
+    "submission_id": 96854041,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18838.cpp"
+    "path": "/content/baekjoon/28000/28436.cpp"
   },
   {
-    "problem_id": 18859,
+    "problem_id": 28471,
     "status": "OK",
-    "submission_id": 89487911,
+    "submission_id": 84520391,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18859.cpp"
+    "path": "/content/baekjoon/28000/28471.cpp"
   },
   {
-    "problem_id": 18892,
+    "problem_id": 28474,
     "status": "OK",
-    "submission_id": 97342306,
+    "submission_id": 97922450,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18892.cpp"
+    "path": "/content/baekjoon/28000/28474.cpp"
   },
   {
-    "problem_id": 18913,
+    "problem_id": 28476,
     "status": "OK",
-    "submission_id": 87401619,
+    "submission_id": 103525499,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18913.cpp"
+    "path": "/content/baekjoon/28000/28476.cpp"
   },
   {
-    "problem_id": 18929,
+    "problem_id": 28520,
     "status": "OK",
-    "submission_id": 102377171,
+    "submission_id": 99517534,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18929.cpp"
+    "path": "/content/baekjoon/28000/28520.cpp"
   },
   {
-    "problem_id": 18945,
+    "problem_id": 28817,
     "status": "OK",
-    "submission_id": 103825913,
+    "submission_id": 84244360,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18945.cpp"
+    "path": "/content/baekjoon/28000/28817.cpp"
   },
   {
-    "problem_id": 18968,
+    "problem_id": 28895,
     "status": "OK",
-    "submission_id": 95568894,
+    "submission_id": 84272828,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/18000/18968.cpp"
+    "path": "/content/baekjoon/28000/28895.cpp"
+  },
+  {
+    "problem_id": 29196,
+    "status": "OK",
+    "submission_id": 87173864,
+    "language": "Python 3 / 수정",
+    "path": "/content/baekjoon/29000/29196.py"
   },
   {
-    "problem_id": 19027,
+    "problem_id": 29200,
     "status": "OK",
-    "submission_id": 99585109,
+    "submission_id": 82710664,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19027.cpp"
+    "path": "/content/baekjoon/29000/29200.cpp"
   },
   {
-    "problem_id": 19028,
+    "problem_id": 29203,
     "status": "OK",
-    "submission_id": 100575232,
+    "submission_id": 100541393,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19028.cpp"
+    "path": "/content/baekjoon/29000/29203.cpp"
   },
   {
-    "problem_id": 19110,
+    "problem_id": 29204,
     "status": "OK",
-    "submission_id": 99302802,
+    "submission_id": 93343487,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19110.cpp"
+    "path": "/content/baekjoon/29000/29204.cpp"
   },
   {
-    "problem_id": 19171,
+    "problem_id": 29221,
     "status": "OK",
-    "submission_id": 85409183,
+    "submission_id": 84617956,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19171.cpp"
+    "path": "/content/baekjoon/29000/29221.cpp"
   },
   {
-    "problem_id": 19371,
+    "problem_id": 29529,
     "status": "OK",
-    "submission_id": 104896829,
+    "submission_id": 91083893,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19371.cpp"
+    "path": "/content/baekjoon/29000/29529.cpp"
   },
   {
-    "problem_id": 19381,
+    "problem_id": 29746,
     "status": "OK",
-    "submission_id": 82541533,
+    "submission_id": 95457289,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19381.cpp"
+    "path": "/content/baekjoon/29000/29746.cpp"
   },
   {
-    "problem_id": 19455,
+    "problem_id": 29763,
     "status": "OK",
-    "submission_id": 102878960,
+    "submission_id": 97919111,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19455.cpp"
+    "path": "/content/baekjoon/29000/29763.cpp"
   },
   {
-    "problem_id": 19473,
+    "problem_id": 29778,
     "status": "OK",
-    "submission_id": 90814218,
+    "submission_id": 101366987,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19473.cpp"
+    "path": "/content/baekjoon/29000/29778.cpp"
   },
   {
-    "problem_id": 19493,
+    "problem_id": 29795,
     "status": "OK",
-    "submission_id": 99215365,
+    "submission_id": 93499236,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19493.cpp"
+    "path": "/content/baekjoon/29000/29795.cpp"
   },
   {
-    "problem_id": 19509,
+    "problem_id": 29821,
     "status": "OK",
-    "submission_id": 102480989,
+    "submission_id": 101708202,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19509.cpp"
+    "path": "/content/baekjoon/29000/29821.cpp"
   },
   {
-    "problem_id": 19514,
+    "problem_id": 29846,
     "status": "OK",
-    "submission_id": 89209421,
+    "submission_id": 98189531,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19514.cpp"
+    "path": "/content/baekjoon/29000/29846.cpp"
   },
   {
-    "problem_id": 19535,
+    "problem_id": 30028,
     "status": "OK",
-    "submission_id": 97913838,
+    "submission_id": 91012753,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19535.cpp"
+    "path": "/content/baekjoon/30000/30028.cpp"
   },
   {
-    "problem_id": 19556,
+    "problem_id": 30086,
     "status": "OK",
-    "submission_id": 102671531,
+    "submission_id": 86593858,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19556.cpp"
+    "path": "/content/baekjoon/30000/30086.cpp"
   },
   {
-    "problem_id": 19568,
+    "problem_id": 30314,
     "status": "OK",
-    "submission_id": 83931228,
+    "submission_id": 98615787,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19568.cpp"
+    "path": "/content/baekjoon/30000/30314.cpp"
   },
   {
-    "problem_id": 19577,
+    "problem_id": 30361,
     "status": "OK",
-    "submission_id": 90526699,
+    "submission_id": 104829361,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19577.cpp"
+    "path": "/content/baekjoon/30000/30361.cpp"
   },
   {
-    "problem_id": 19581,
+    "problem_id": 30381,
     "status": "OK",
-    "submission_id": 84533533,
+    "submission_id": 99214750,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19581.cpp"
+    "path": "/content/baekjoon/30000/30381.cpp"
   },
   {
-    "problem_id": 19586,
+    "problem_id": 30391,
     "status": "OK",
-    "submission_id": 95575908,
+    "submission_id": 88277651,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19586.cpp"
+    "path": "/content/baekjoon/30000/30391.cpp"
   },
   {
-    "problem_id": 19608,
+    "problem_id": 30400,
     "status": "OK",
-    "submission_id": 84860404,
+    "submission_id": 84291221,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19608.cpp"
+    "path": "/content/baekjoon/30000/30400.cpp"
   },
   {
-    "problem_id": 19663,
+    "problem_id": 30480,
     "status": "OK",
-    "submission_id": 86592885,
+    "submission_id": 90669767,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19663.cpp"
+    "path": "/content/baekjoon/30000/30480.cpp"
   },
   {
-    "problem_id": 19672,
+    "problem_id": 30485,
     "status": "OK",
-    "submission_id": 86115545,
+    "submission_id": 85766498,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19672.cpp"
+    "path": "/content/baekjoon/30000/30485.cpp"
   },
   {
-    "problem_id": 19680,
+    "problem_id": 30598,
     "status": "OK",
-    "submission_id": 99169062,
+    "submission_id": 97148001,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19680.cpp"
+    "path": "/content/baekjoon/30000/30598.cpp"
   },
   {
-    "problem_id": 19693,
+    "problem_id": 30673,
     "status": "OK",
-    "submission_id": 81927062,
+    "submission_id": 95966415,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19693.cpp"
+    "path": "/content/baekjoon/30000/30673.cpp"
   },
   {
-    "problem_id": 19846,
+    "problem_id": 30691,
     "status": "OK",
-    "submission_id": 83908757,
+    "submission_id": 89685690,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19846.cpp"
+    "path": "/content/baekjoon/30000/30691.cpp"
   },
   {
-    "problem_id": 19848,
+    "problem_id": 30773,
     "status": "OK",
-    "submission_id": 82627649,
-    "language": "PyPy3 / 수정",
-    "path": "/content/baekjoon/19000/19848.py"
+    "submission_id": 87272636,
+    "language": "C++17 / 수정",
+    "path": "/content/baekjoon/30000/30773.cpp"
   },
   {
-    "problem_id": 19915,
+    "problem_id": 30806,
     "status": "OK",
-    "submission_id": 99603781,
+    "submission_id": 90394944,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19915.cpp"
+    "path": "/content/baekjoon/30000/30806.cpp"
   },
   {
-    "problem_id": 19927,
+    "problem_id": 30845,
     "status": "OK",
-    "submission_id": 102557101,
+    "submission_id": 84239283,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19927.cpp"
+    "path": "/content/baekjoon/30000/30845.cpp"
   },
   {
-    "problem_id": 19932,
+    "problem_id": 30852,
     "status": "OK",
-    "submission_id": 101512859,
+    "submission_id": 100713842,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19932.cpp"
+    "path": "/content/baekjoon/30000/30852.cpp"
   },
   {
-    "problem_id": 19933,
+    "problem_id": 30854,
     "status": "OK",
-    "submission_id": 100405438,
+    "submission_id": 100713919,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19933.cpp"
+    "path": "/content/baekjoon/30000/30854.cpp"
   },
   {
-    "problem_id": 19939,
+    "problem_id": 30855,
     "status": "OK",
-    "submission_id": 94960483,
+    "submission_id": 100713902,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19939.cpp"
+    "path": "/content/baekjoon/30000/30855.cpp"
   },
   {
-    "problem_id": 19943,
+    "problem_id": 30861,
     "status": "OK",
-    "submission_id": 94959611,
+    "submission_id": 100713897,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19943.cpp"
+    "path": "/content/baekjoon/30000/30861.cpp"
   },
   {
-    "problem_id": 19950,
+    "problem_id": 30906,
     "status": "OK",
-    "submission_id": 80578631,
+    "submission_id": 100042552,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19950.cpp"
+    "path": "/content/baekjoon/30000/30906.cpp"
   },
   {
-    "problem_id": 19998,
+    "problem_id": 30910,
     "status": "OK",
-    "submission_id": 94818988,
+    "submission_id": 104958577,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/19000/19998.cpp"
+    "path": "/content/baekjoon/30000/30910.cpp"
   },
   {
-    "problem_id": 20041,
+    "problem_id": 30927,
     "status": "OK",
-    "submission_id": 83798604,
+    "submission_id": 101006047,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20041.cpp"
+    "path": "/content/baekjoon/30000/30927.cpp"
   },
   {
-    "problem_id": 20049,
+    "problem_id": 30932,
     "status": "OK",
-    "submission_id": 102463738,
+    "submission_id": 99940080,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20049.cpp"
+    "path": "/content/baekjoon/30000/30932.cpp"
   },
   {
-    "problem_id": 20060,
+    "problem_id": 30933,
     "status": "OK",
-    "submission_id": 86593961,
+    "submission_id": 99541826,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20060.cpp"
+    "path": "/content/baekjoon/30000/30933.cpp"
   },
   {
-    "problem_id": 20062,
+    "problem_id": 30964,
     "status": "OK",
-    "submission_id": 94209975,
+    "submission_id": 101546734,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20062.cpp"
+    "path": "/content/baekjoon/30000/30964.cpp"
   },
   {
-    "problem_id": 20063,
+    "problem_id": 31001,
     "status": "OK",
-    "submission_id": 101324082,
+    "submission_id": 87958914,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20063.cpp"
+    "path": "/content/baekjoon/31000/31001.cpp"
   },
   {
-    "problem_id": 20077,
+    "problem_id": 31002,
     "status": "OK",
-    "submission_id": 95518790,
+    "submission_id": 87959184,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20077.cpp"
+    "path": "/content/baekjoon/31000/31002.cpp"
   },
   {
-    "problem_id": 20078,
+    "problem_id": 31003,
     "status": "OK",
-    "submission_id": 95760698,
+    "submission_id": 90665447,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20078.cpp"
+    "path": "/content/baekjoon/31000/31003.cpp"
   },
   {
-    "problem_id": 20080,
+    "problem_id": 31004,
     "status": "OK",
-    "submission_id": 99996578,
+    "submission_id": 87966148,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20080.cpp"
+    "path": "/content/baekjoon/31000/31004.cpp"
   },
   {
-    "problem_id": 20090,
+    "problem_id": 31005,
     "status": "OK",
-    "submission_id": 93541111,
+    "submission_id": 87966886,
     "language": "C++17 / 수정",
-    "path": "/content/baekjoon/20000/20090.cpp"
+    "path": "/content/baekjoon/31000/31005.cpp"
   }
 ]
